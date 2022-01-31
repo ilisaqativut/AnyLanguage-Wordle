@@ -239,7 +239,7 @@ export const VALIDGUESSES = [
 "siuti",
 "sukun",
 "sumun",
-"sumiñ",",
+"sumiñ",
 "suvak",
 "suvat",
 "taliq",
