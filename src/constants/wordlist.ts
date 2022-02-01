@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  "qayaq",
+  "sikut",
 "akłaq",
 "uvaŋa",
 "atchu",
@@ -32,7 +32,7 @@ export const WORDS = [
 "qamun",
 "ukpik",
 "umiaq",
-"sikut",
+"qayaq",
 "uqpik",
 "aakan",
 "kumak",
