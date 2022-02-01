@@ -18,14 +18,14 @@ export const ORTHOGRAPHY = [
   'ŋ',
   'p',
   'q',
-  "r'",
-  "s'",
+  'r',
+  's',
   'l',
-  "sr'",
+  'sr',
   't',
-  "u'",
+  'u',
   'v',
-  "y",
+  'y',
 ]
 
 if (CONFIG.normalization) {
