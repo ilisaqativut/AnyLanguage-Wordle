@@ -20,7 +20,6 @@ export const ORTHOGRAPHY = [
   'q',
   'r',
   's',
-  'l',
   'sr',
   't',
   'u',
