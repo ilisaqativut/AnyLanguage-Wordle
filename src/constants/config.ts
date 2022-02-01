@@ -2,7 +2,7 @@ export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
   language: 'Iñupiaq', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
-  author: 'Iyaġak', // Put your name here so people know who made this Wordle!
+  author: 'Iḷisaqativut', // Put your name here so people know who made this Wordle!
   authorWebsite: 'ilisaqativut.org', // Put a link to your website or social media here
   wordListSource: 'Iñupiallu Tanŋiḷḷu Uqaluŋisa Iḷaŋich: Abridged Iñupiaq and English Dictionary', // Describe the source material for your words here
   wordListSourceLink: 'https://drive.google.com/file/d/1CxGCuF-jiWHkGWiuEK-FFHNhi76Ccy5P/view', // Put a link to the source material for your words here
