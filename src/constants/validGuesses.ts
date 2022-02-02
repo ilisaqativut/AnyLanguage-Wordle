@@ -315,6 +315,9 @@ export const VALIDGUESSES = [
   "usuiñ",
   "usuit",
   "utchuk",
+  "qauŋa"
+  "uvani"
+  "
 ]
 
 if (CONFIG.normalization) {
