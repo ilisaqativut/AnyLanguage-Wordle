@@ -49,6 +49,7 @@ export const WORDS = [
 "sumun",
 "puyuq",
 "qiruk",
+"itpiñ",
 ]
 
 if (CONFIG.normalization) {
