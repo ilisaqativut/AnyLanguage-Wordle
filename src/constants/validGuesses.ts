@@ -317,6 +317,10 @@ export const VALIDGUESSES = [
   "utchuk",
   "qauŋa",
   "uvani",
+  "itpiñ",
+  "itpak",
+  "itpat",
+  "itpik",
 ]
 
 if (CONFIG.normalization) {
