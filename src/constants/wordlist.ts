@@ -9,7 +9,7 @@ export const WORDS = [
 "pikka",
 "manna",
 "ilviñ",
-"manik",
+"iñuit",
 "uqsruq",
 "naumi",
 "ivalu",
@@ -79,7 +79,7 @@ export const WORDS = [
   "tavlu", 
   "sumun", 
   "ukuak",
-  "iñuit",
+  "manik",
 ]
 
 if (CONFIG.normalization) {
