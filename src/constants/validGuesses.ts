@@ -412,7 +412,6 @@ export const VALIDGUESSES = [
   "aŋŋiñ",
   "aŋŋuu",
   "aŋŋun",
-  "aptaiñ",
   "apyuq",
   "aqaya",
   "aqiya",
