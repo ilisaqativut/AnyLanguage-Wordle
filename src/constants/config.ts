@@ -3,7 +3,7 @@ export const CONFIG = {
   language: 'Iñupiaq (NS)', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Iḷisaqativut', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'ilisaqativut.org', // Put a link to your website or social media here
+  authorWebsite: 'https://ilisaqativut.org/', // Put a link to your website or social media here
   wordListSource: 'Iñupiatun Uqaluit Taniktun Sivuniŋit: North Slope Iñupiaq to English Dictionary', // Describe the source material for your words here
   wordListSourceLink: 'https://uafanlc.alaska.edu/Online/IN(N)971M2011/inupiaq_dictionary_2012-05-14-sm.pdf', // Put a link to the source material for your words here
   //
