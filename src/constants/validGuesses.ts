@@ -474,7 +474,7 @@ export const VALIDGUESSES = [
   "sipam",
   "ayyai",
   "igaga",
-  "igaŋa"
+  "igaŋa",
   "igari",
   "aġnam",
   "igaaq",
