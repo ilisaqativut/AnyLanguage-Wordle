@@ -34,7 +34,6 @@ export const WORDS = [
 "panik",
 "akłaq",
 "uvaŋa",
-"atchu",
 "asiaq",
 "pikka",
 "manna",
