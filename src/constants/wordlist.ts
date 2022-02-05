@@ -37,6 +37,8 @@ export const WORDS = [
 "aakan",
 "kumak",
 "anuġi",
+"nanuq",
+"samma",
 "miluk",
 "iġñiq",
 "kisaq",
