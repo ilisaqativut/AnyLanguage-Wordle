@@ -1029,6 +1029,7 @@ export const VALIDGUESSES = [
   "siimi",
   "inaat",
   "igari",
+  "anisa",
 ]
 
 if (CONFIG.normalization) {
