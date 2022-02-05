@@ -1030,6 +1030,9 @@ export const VALIDGUESSES = [
   "inaat",
   "igari",
   "anisa",
+  "ittut",
+  "ittuq",
+  "ittuk",
 ]
 
 if (CONFIG.normalization) {
