@@ -42,7 +42,6 @@ export const WORDS = [
 "uqsruq",
 "naumi",
 "ivalu",
-"atchak",
 "kiita",
 "uvluq",
 "qanuq",
@@ -81,6 +80,7 @@ export const WORDS = [
   "tutik",
   "tanik",
   "suviñ",
+"atchak",
  
 ]
 
