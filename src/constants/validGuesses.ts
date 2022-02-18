@@ -1036,6 +1036,11 @@ export const VALIDGUESSES = [
   "itman",
   "itpan",
   "iglua",
+  "aapuk",
+  "aaput",
+  "ałłak",
+  "ałłat",
+  "iñuga",
 ]
 
 if (CONFIG.normalization) {
