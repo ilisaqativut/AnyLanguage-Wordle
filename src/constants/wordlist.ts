@@ -60,7 +60,6 @@ export const WORDS = [
 "qamun",
 "ukpik",
 "umiaq",
-"umiaq",
 "qayaq",
 "miluk",
 "iġñiq",
