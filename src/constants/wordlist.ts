@@ -85,6 +85,7 @@ export const WORDS = [
    "ukuak",
    "suvat",
    "tavra",
+   "sumiu",
 ]
 
 if (CONFIG.normalization) {
