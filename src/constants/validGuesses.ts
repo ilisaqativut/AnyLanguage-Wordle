@@ -1059,6 +1059,7 @@ export const VALIDGUESSES = [
   "aiġun",
   "aiḷaq",
   "aiñiq",
+  "sumiu",
 ]
 
 if (CONFIG.normalization) {
