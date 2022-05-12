@@ -1106,7 +1106,7 @@ export const VALIDGUESSES = [
   "argiq",
   "arguq",
   "arrik",
-  "arvik',
+  "arvik",
   "asulu",
   "asriaq",
   "atigi",
