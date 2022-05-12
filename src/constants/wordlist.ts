@@ -84,6 +84,7 @@ export const WORDS = [
 "amauq",
 "aqpich",
 "iñġiq",
+"naami",
 "iġġiq",
 "airuq",
 "taliq",
