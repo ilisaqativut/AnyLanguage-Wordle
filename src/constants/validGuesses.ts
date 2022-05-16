@@ -1106,7 +1106,6 @@ export const VALIDGUESSES = [
   "argiq",
   "arguq",
   "arrik",
-  "arvik",
   "asulu",
   "asriaq",
   "atigi",
@@ -1399,6 +1398,7 @@ export const VALIDGUESSES = [
   "uviḷu",
   "uyuġu",
   "yahii",
+  "uvlua",
 ]
 
 if (CONFIG.normalization) {
