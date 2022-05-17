@@ -1346,7 +1346,7 @@ export const VALIDGUESSES = [
   "tarra",
   "tasiq",
   "tatit",
-  "tatik',
+  "tatik",
   "tiiga",
   "tiiŋa",
   "tiŋuk",
