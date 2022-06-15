@@ -49,10 +49,6 @@ export const WORDS = [
 "qavlu",
 "qupak",
 "tavlu",
-"aaġlu",
-"aġnaq",
-"kamik",
-"aġviq",
 "aqqaa",
 "atigi",
 "taata",
@@ -119,6 +115,10 @@ export const WORDS = [
    "tavra",
    "sumiu",
    "sunik",
+   "aaġlu",
+"aġnaq",
+"kamik",
+"aġviq",
 ]
 
 if (CONFIG.normalization) {
