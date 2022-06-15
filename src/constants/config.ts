@@ -4,8 +4,8 @@ export const CONFIG = {
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Iḷisaqativut', // Put your name here so people know who made this Wordle!
   authorWebsite: 'https://ilisaqativut.org/', // Put a link to your website or social media here
-  wordListSource: 'Iñupiatun Uqaluit Taniktun Sivuniŋit: North Slope Iñupiaq to English Dictionary', // Describe the source material for your words here
-  wordListSourceLink: 'https://uafanlc.alaska.edu/Online/IN(N)971M2011/inupiaq_dictionary_2012-05-14-sm.pdf', // Put a link to the source material for your words here
+  wordListSource: 'Iñupiatun Uqaluit Taniktun Sivuniŋit: North Slope Iñupiaq to English Dictionary & Northwest Arctic Iñupiatun Dictionary', // Describe the source material for your words here
+  wordListSourceLink: 'https://ilisaqativut.org/dictionaries', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
